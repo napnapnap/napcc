@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.sina.weibo.sdk</groupId>
+  <artifactId>core</artifactId>
+  <version>4.4.3</version>
+  <packaging>aar</packaging>
+  <name>This is a weibo sdk for aid</name>
+  <url>http://www.sina.com.cn</url>
+  <licenses>
+    <license>
+      <name>This is a Weibo sdk for aid</name>
+      <url>http://www.sina.com.cn</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>huirong3</id>
+      <name>huirong</name>
+      <email>huirong3@staff.weibo.com</email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>https://github.com/sinaweibosdk/weibo_android_sdk</connection>
+    <developerConnection>https://github.com/sinaweibosdk/weibo_android_sdk</developerConnection>
+    <url>http://www.sina.com.cn</url>
+  </scm>
+</project>
